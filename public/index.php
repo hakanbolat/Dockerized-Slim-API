@@ -10,7 +10,7 @@ $app = AppFactory::create();
 $app->addBodyParsingMiddleware();
 
 $app->get('/', function (Request $request, Response $response, $args) {
-    $response->getBody()->write("Hello GiHub!");
+    $response->getBody()->write("Hello GitHub!");
     return $response;
 });
 
