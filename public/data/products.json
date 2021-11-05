@@ -1,0 +1,37 @@
+[
+    {
+        "id": 100,
+        "name": "Black&Decker A7062 40 Par\u00e7a C\u0131rc\u0131rl\u0131 Tornavida Seti",
+        "category": 1,
+        "price": "120.75",
+        "stock": 10
+    },
+    {
+        "id": 101,
+        "name": "Reko Mini Tamir Hassas Tornavida Seti 32'li",
+        "category": 1,
+        "price": "49.50",
+        "stock": 10
+    },
+    {
+        "id": 102,
+        "name": "Viko Karre Anahtar - Beyaz",
+        "category": 2,
+        "price": "11.28",
+        "stock": 10
+    },
+    {
+        "id": 103,
+        "name": "Legrand Salbei Anahtar, Al\u00fcminyum",
+        "category": 2,
+        "price": "22.80",
+        "stock": 10
+    },
+    {
+        "id": 104,
+        "description": "Schneider Asfora Beyaz Kom\u00fctat\u00f6r",
+        "category": 2,
+        "price": "12.95",
+        "stock": 10
+    }
+]
