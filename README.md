@@ -1,4 +1,4 @@
-# order-api-task
+# Dockerized-Slim-API
 Simple Order API with
 
 * Docker - LEPP
