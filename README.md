@@ -1,5 +1,6 @@
 # order-api-task
-Order API with
+Simple Order API with
 
 * Docker - LEPP
 * Slim Framework 4
+* JSON
